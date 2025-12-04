@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\uzhas\uzhas\bin\Debug\net8.0\uzhas.exe
+C:\Users\artem\source\repos\uzhas\uzhas\bin\Debug\net8.0\uzhas.deps.json
+C:\Users\artem\source\repos\uzhas\uzhas\bin\Debug\net8.0\uzhas.runtimeconfig.json
+C:\Users\artem\source\repos\uzhas\uzhas\bin\Debug\net8.0\uzhas.dll
+C:\Users\artem\source\repos\uzhas\uzhas\bin\Debug\net8.0\uzhas.pdb
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.AssemblyInfo.cs
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.dll
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\refint\uzhas.dll
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.pdb
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\uzhas.genruntimeconfig.cache
+C:\Users\artem\source\repos\uzhas\uzhas\obj\Debug\net8.0\ref\uzhas.dll

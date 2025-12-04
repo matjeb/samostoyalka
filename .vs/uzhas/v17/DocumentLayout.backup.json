@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\uzhas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|c:\\users\\artem\\source\\repos\\uzhas\\uzhas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|solutionrelative:uzhas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|c:\\users\\artem\\source\\repos\\uzhas\\uzhas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|solutionrelative:uzhas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|c:\\users\\artem\\source\\repos\\uzhas\\uzhas\\settlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|solutionrelative:uzhas\\settlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|c:\\users\\artem\\source\\repos\\uzhas\\uzhas\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018A3698-7988-4007-94F2-7A7DEBD4B66A}|uzhas\\uzhas.csproj|solutionrelative:uzhas\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\GameManager.cs",
+              "RelativeDocumentMoniker": "uzhas\\GameManager.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\GameManager.cs*",
+              "RelativeToolTip": "uzhas\\GameManager.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:38:08.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settlement.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\Settlement.cs",
+              "RelativeDocumentMoniker": "uzhas\\Settlement.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\Settlement.cs",
+              "RelativeToolTip": "uzhas\\Settlement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:18:55.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\Building.cs",
+              "RelativeDocumentMoniker": "uzhas\\Building.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\Building.cs",
+              "RelativeToolTip": "uzhas\\Building.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:03:17.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\Program.cs",
+              "RelativeDocumentMoniker": "uzhas\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\uzhas\\uzhas\\Program.cs",
+              "RelativeToolTip": "uzhas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:02:07.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
